@@ -1,7 +1,9 @@
-public class Fee {
+import java.util.*;
+public class FeeUser {
     public static void main(String[] args) {
-        int fee=125000;
-        int discountPercent=10;
+        Scanner sc=new Scanner(System.in);
+        int fee=sc.nextInt();
+        int discountPercent=sc.nextInt();
         int discount=fee*discountPercent/100;
         int pay=fee-discount;
         System.out.println("The discount amount is INR "+discount+" and final discounted fee is INR "+pay);
