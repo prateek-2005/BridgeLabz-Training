@@ -1,14 +1,14 @@
 import java.util.*;
 public class MayaBMI {
-	public static void main(String[] args) {
-		Scanner sc=new Scanner(System.in);
-		System.out.println("Weight In Kg");
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter Weight In Kg");
 		double WeightInKg=sc.nextDouble();
-		System.out.println("Height in Cms");
+        System.out.println("Enter Height In Cms");
 		double HeightInCm=sc.nextDouble();
 		double HeightInMeters=HeightInCm/100;
 		double bmi=WeightInKg/ (HeightInMeters*HeightInMeters);
-		System.out.println("BMI Category");
+        System.out.println("BMI Category:");
 		if(bmi<=18.4) {
 			System.out.println("UnderWeight");
 		}
@@ -22,6 +22,5 @@ public class MayaBMI {
 			System.out.println("Obese");
 		}
 		sc.close();
-	}
-
+    }
 }
