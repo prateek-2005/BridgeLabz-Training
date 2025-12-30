@@ -7,7 +7,7 @@ public class CalculateBMI {
         String status;
         if (bmi <= 18.4) {
             status = "Underweight";
-        } else if (bmi>=18.5 && bmi<=24.0) {
+        } else if (bmi>=18.5 && bmi<=24.9) {
             status = "Normal";
         } else if (bmi>=25 && bmi<=39) {
             status = "Overweight";
