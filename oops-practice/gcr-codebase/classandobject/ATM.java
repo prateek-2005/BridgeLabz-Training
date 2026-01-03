@@ -38,7 +38,7 @@ public class ATM {
 		System.out.println("Enter Balance: ");
 		double balance=sc.nextDouble();
 		System.out.println();
-		BankAccount account=new BankAccount(accountHolder,accountNumber,balance);
+		BankAccountTypes account=new BankAccountTypes(accountHolder,accountNumber,balance);
 		System.out.println(account.accountHolder);
         account.displayBalance();
         System.out.println("Amount To be Deposited: ");
