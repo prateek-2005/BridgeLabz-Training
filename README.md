@@ -1,173 +1,131 @@
-🚀 BridgeLabz-Training
-BridgeLabz – Core Java & Problem Solving Journey
+🚀 BridgeLabz Training – Core Java & Problem Solving Journey
 
-This repository documents my learning journey, hands-on practice, and progress during the BridgeLabz Training Program.
-The focus is on building strong Core Java fundamentals, improving logical thinking, and developing industry-ready problem-solving skills.
+This repository documents my structured learning journey, hands-on practice, and continuous progress during the BridgeLabz Training Program.
+The focus is on building strong foundations in Core Java, improving logical thinking, and developing industry-ready problem-solving skills.
 
 📌 Repository Overview
-
 BridgeLabz-Training
 │
 ├── core-java-practice
 │   ├── gcr-codebase
-│   ├── scenario--codebase
 │   ├── leet-code-codebase
+│   └── scenario-based
+│
 ├── oops-practice
 │   ├── gcr-codebase
-│   ├── scenario--codebase
 │   ├── leet-code-codebase
+│   └── scenario-based
+│
 ├── dsa-practice
 │   ├── gcr-codebase
-│   ├── scenario-based
-│   └── leet-code-codebase
+│   ├── leet-code-codebase
+│   └── scenario-based
 │
-├── collections          (upcoming)
-├── exceptions           (upcoming)
+├── collections (upcoming)
+├── exceptions  (upcoming)
 │
-└── README.md 
+└── README.md
+
+
 🌿 Active Branch
 
-🔹 dsa-practice
-
-Contains my current learning, implementations, and practice work.
+dsa-practice
+Contains my current implementations, exercises, and learning work.
 
 📅 Training Progress (Week-wise)
 🟦 Week 1 – Foundation & Core Java Basics
 
+Duration: 16–20 December 2025
 Topics Covered: Git, GitHub, Java Basics, Control Flow, Arrays
-
-Work Done:
 
 Set up GitHub repository and structured folders
 
-Practiced Git commands:
-git status, git add, git commit, git push
+Practiced Git workflow (status, add, commit, push)
 
 Solved LeetCode problems in Java
 
-Practiced Core Java fundamentals:
+Practiced:
 
-Java syntax
+Java syntax & I/O
 
-Input / Output handling
+Variables & data types
 
-Variables and data types
+Operators
 
-Operators and arithmetic logic
+Conditional statements
 
-Conditional statements (if-else, switch)
+Loops
 
-Loops (for, while, do-while)
+Implemented array-based programs (odd-even, factors, traversal)
 
-Implemented array-based programs:
-
-Odd-even separation
-
-Factor finding
-
-Traversal and dynamic resizing
-
-Outcome:
-✅ Strong foundation in Java basics
-✅ Improved logical thinking
+✅ Outcome: Strong programming foundation & improved logical thinking
 
 🟦 Week 2 – Strings, Methods & Logic Building
 
+Duration: 22–26 December 2025
 Topics Covered: Strings, Methods, Recursion, Scenario-Based Problems
 
-Work Done:
+Solved problems on:
 
-Solved multiple string-based problems:
-
-Palindrome
-
-Anagram
-
-String traversal
+Palindrome, Anagram
 
 Duplicate removal
 
-String comparison
+String traversal & comparison
 
-Vowel & consonant count
+Case conversion
 
-Case toggling
+Implemented logic without using built-in methods
 
-Implemented logic without using built-in methods to improve understanding
+Practiced modular coding using methods
 
-Practiced methods:
-
-Parameters and return types
-
-Modular coding
-
-Reusability
-
-Solved scenario-based problems:
+Solved real-world scenarios:
 
 Election Booth
 
-Metro Fare Calculation
+Metro Fare
 
-Bus Route Distance Tracker
+Bus Route Tracker
 
 Festival Lucky Draw
 
-Improved handling of runtime exceptions
+✅ Outcome: Stronger problem-solving and cleaner code structure
 
-Outcome:
-✅ Stronger problem-solving approach
-✅ Better understanding of logic + code structure
+🟦 Week 3 – OOP Fundamentals & Scenario Design
 
-🟦 Week 3 – Scenario-Based Problems & OOP Fundamentals
+Duration: 29 December 2025 – 3 January 2026
+Topics Covered: Classes, Objects, Constructors, Inheritance
 
-Topics Covered: Classes, Objects, Methods, Constructors, Inheritance
-
-Work Done:
-
-Solved real-world scenario-based problems
+Designed real-world problems using OOP
 
 Implemented:
 
-Wage Computation problems
+Wage computation system
 
-Line Comparison problems using OOP
+Line comparison problem
 
-Snake and Ladder game logic
+Snake and Ladder game
 
-Learned and practiced:
+Learned and applied:
 
-Classes and Objects
+Classes & Objects
 
-Object state and behavior
-
-Constructors (default & parameterized)
-
-Constructor chaining
+Constructors & constructor chaining
 
 this keyword
 
 Static members
 
-Designed:
+Inheritance (IS-A relationships)
 
-Class–Object diagrams
+Created class-object diagrams
 
-Object interaction models
-
-Practiced inheritance (IS-A relationship) with multiple examples
-
-Outcome:
-✅ Clear understanding of OOP foundations
-✅ Ability to model real-world problems using Java
+✅ Outcome: Ability to model real systems using Java
 
 🟦 Week 4 – Advanced OOP & Data Structures
 
-Topics Covered: Advanced OOP, Polymorphism, Interfaces, Linked List
-
-Work Done:
-
-Solved multiple OOP scenario-based problems
+Duration: 5–9 January 2026
+Topics Covered: Polymorphism, Interfaces, Linked List
 
 Applied core OOP principles:
 
@@ -181,11 +139,9 @@ Polymorphism
 
 Interfaces
 
-Designed CRUD-based system structures
+Built structured CRUD-based designs
 
-Built clean, modular, and maintainable code
-
-Learned and implemented Linked List:
+Implemented Linked List:
 
 Insertion
 
@@ -193,33 +149,41 @@ Deletion
 
 Traversal
 
-Participated in review session to discuss progress and improvements
+Participated in review sessions and feedback discussions
 
-Outcome:
-✅ Strong confidence in OOP design
-✅ Improved data structure understanding
+✅ Outcome: Strong confidence in OOP design and code structure
 
 🧭 How to Navigate
 
-Switch to branch: core-java-practice
+Switch branch to: core-java-practice
 
 Each folder contains topic-wise Java programs
 
-Repository is updated regularly as training progresses
+Repository is updated continuously as training progresses
 
 🚀 Upcoming Topics
-
-Advanced Object-Oriented Programming
 
 Java Collections Framework
 
 Exception Handling
 
-Advanced Problem Solving
+Advanced OOP Design
 
-DSA-based Challenges
+Data Structures & Algorithms
+
+Advanced Java Problem Solving
 
 ⭐ Final Note
 
-This repository reflects my consistent learning, practice, and growth during the BridgeLabz Training Program.
-It will be continuously updated as I move forward.
+This repository reflects my consistent learning, disciplined practice, and growth mindset throughout the BridgeLabz Training Program.
+It will continue evolving as I progress further.
+
+💼 Tech Stack
+
+Java
+
+Git & GitHub
+
+Object-Oriented Programming
+
+Data Structures (in progress)
