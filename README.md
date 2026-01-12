@@ -1,9 +1,11 @@
-🚀 BridgeLabz Training – Core Java & Problem Solving Journey
+🚀 BridgeLabz Training – Java Full Stack Program With Python And Gen-AI
 
 This repository documents my structured learning journey, hands-on practice, and continuous progress during the BridgeLabz Training Program.
 The focus is on building strong foundations in Core Java, improving logical thinking, and developing industry-ready problem-solving skills.
 
-📌 Repository Overview
+## 📌 Repository Overview
+
+```text
 BridgeLabz-Training
 │
 ├── core-java-practice
@@ -26,11 +28,15 @@ BridgeLabz-Training
 │
 └── README.md
 
+```text
+
 
 🌿 Active Branch
 
 dsa-practice
 Contains my current implementations, exercises, and learning work.
+
+---------------------------------------*************************************---------------------------------------------------------------
 
 📅 Training Progress (Week-wise)
 🟦 Week 1 – Foundation & Core Java Basics
@@ -38,152 +44,169 @@ Contains my current implementations, exercises, and learning work.
 Duration: 16–20 December 2025
 Topics Covered: Git, GitHub, Java Basics, Control Flow, Arrays
 
-Set up GitHub repository and structured folders
+•  Set up GitHub repository and structured folders
 
-Practiced Git workflow (status, add, commit, push)
+• Practiced Git workflow (status, add, commit, push)
 
-Solved LeetCode problems in Java
+• Solved LeetCode problems in Java
 
-Practiced:
+• Practiced:
 
-Java syntax & I/O
+      -Java syntax & I/O
 
-Variables & data types
+      -Variables & data types
 
-Operators
+      -Operators
 
-Conditional statements
+      -Conditional statements
 
-Loops
+• Loops
 
-Implemented array-based programs (odd-even, factors, traversal)
+• Implemented array-based programs (odd-even, factors, traversal)
 
 ✅ Outcome: Strong programming foundation & improved logical thinking
+
+---------------------------------------*************************************---------------------------------------------------------------
 
 🟦 Week 2 – Strings, Methods & Logic Building
 
 Duration: 22–26 December 2025
-Topics Covered: Strings, Methods, Recursion, Scenario-Based Problems
 
-Solved problems on:
+Topics Covered: Strings, Methods, Scenario-Based Problems
 
-Palindrome, Anagram
+• Solved problems on:
 
-Duplicate removal
+          -Palindrome, Anagram
 
-String traversal & comparison
+          -Duplicate removal
 
-Case conversion
+          -String traversal & comparison
 
-Implemented logic without using built-in methods
+          -Case conversion
 
-Practiced modular coding using methods
+• Implemented logic without using built-in methods
 
-Solved real-world scenarios:
+• Practiced modular coding using methods
 
-Election Booth
+• Solved real-world scenarios:
 
-Metro Fare
+         -Election Booth
 
-Bus Route Tracker
+         -Metro Fare
 
-Festival Lucky Draw
+         -Bus Route Tracker
+
+          -Festival Lucky Draw
 
 ✅ Outcome: Stronger problem-solving and cleaner code structure
+
+---------------------------------------*************************************---------------------------------------------------------------
 
 🟦 Week 3 – OOP Fundamentals & Scenario Design
 
 Duration: 29 December 2025 – 3 January 2026
+
 Topics Covered: Classes, Objects, Constructors, Inheritance
 
-Designed real-world problems using OOP
+• Designed real-world problems using OOP
 
-Implemented:
+• Implemented:
 
-Wage computation system
+      -Wage computation system
 
-Line comparison problem
+      -Line comparison problem
 
-Snake and Ladder game
+      -Snake and Ladder game
 
-Learned and applied:
+• Learned and applied:
 
-Classes & Objects
+     -Classes & Objects
 
-Constructors & constructor chaining
+     -Constructors & constructor chaining
 
-this keyword
+     -this keyword
 
-Static members
+     -Static members
 
-Inheritance (IS-A relationships)
+     -Inheritance (IS-A relationships)
 
-Created class-object diagrams
+• Created class-object diagrams
 
 ✅ Outcome: Ability to model real systems using Java
+
+---------------------------------------*************************************---------------------------------------------------------------
 
 🟦 Week 4 – Advanced OOP & Data Structures
 
 Duration: 5–9 January 2026
+
 Topics Covered: Polymorphism, Interfaces, Linked List
 
-Applied core OOP principles:
+• Applied core OOP principles:
 
-Abstraction
+      -Abstraction
 
-Encapsulation
+      -Encapsulation
 
-Inheritance
+      -Inheritance
 
-Polymorphism
+      -Polymorphism
 
-Interfaces
+      -Interfaces
 
-Built structured CRUD-based designs
+• Built structured CRUD-based designs
 
-Implemented Linked List:
+• Implemented Linked List:
 
-Insertion
+    -Insertion
 
-Deletion
+    -Deletion
 
-Traversal
+    -Traversal
 
-Participated in review sessions and feedback discussions
+• Participated in review sessions and feedback discussions
+
+---------------------------------------*************************************---------------------------------------------------------------
 
 ✅ Outcome: Strong confidence in OOP design and code structure
 
 🧭 How to Navigate
 
-Switch branch to: core-java-practice
+• Switch branch to: core-java-practice
 
-Each folder contains topic-wise Java programs
+• Each folder contains topic-wise Java programs
 
-Repository is updated continuously as training progresses
+• Repository is updated continuously as training progresses
+
+---------------------------------------*************************************---------------------------------------------------------------
 
 🚀 Upcoming Topics
 
-Java Collections Framework
+• Java Collections Framework
 
-Exception Handling
+• Exception Handling
 
-Advanced OOP Design
+• Advanced OOP Design
 
-Data Structures & Algorithms
+• Data Structures & Algorithms
 
-Advanced Java Problem Solving
+• Advanced Java Problem Solving
+
+---------------------------------------*************************************---------------------------------------------------------------
 
 ⭐ Final Note
 
 This repository reflects my consistent learning, disciplined practice, and growth mindset throughout the BridgeLabz Training Program.
 It will continue evolving as I progress further.
 
+---------------------------------------*************************************---------------------------------------------------------------
+
 💼 Tech Stack
 
-Java
+• Java
 
-Git & GitHub
+• Git & GitHub
 
-Object-Oriented Programming
+• Object-Oriented Programming
 
-Data Structures (in progress)
+• Data Structures (in progress)
