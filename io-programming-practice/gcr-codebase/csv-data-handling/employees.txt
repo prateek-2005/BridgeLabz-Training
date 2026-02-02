@@ -1,0 +1,6 @@
+ID,Name,Department,Salary
+101,Dipanshu,IT,50000
+102,Sweta,HR,45000
+103,Prakhar,Finance,55000
+104,Rahul,Marketing,40000
+105,Anjali,IT,48000
