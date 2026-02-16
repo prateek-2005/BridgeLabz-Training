@@ -1,16 +1,21 @@
+package address_book;
+import java.util.Objects;
+
 public class Contact {
 
-    private String firstName;
-    private String lastName;
-    private String address;
-    private String city;
-    private String state;
-    private String zip;
-    private String phoneNumber;
-    private String email;
+    String firstName;
+    String lastName;
+    String address;
+    String city;
+    String state;
+    String zip;
+    String phone;
+    String email;
 
-    public Contact(String firstName, String lastName, String address,String city, String state, String zip,
-                   String phoneNumber, String email) {
+    public Contact(String firstName, String lastName,
+                   String address, String city,
+                   String state, String zip,
+                   String phone, String email) {
 
         this.firstName = firstName;
         this.lastName = lastName;
@@ -18,29 +23,55 @@ public class Contact {
         this.city = city;
         this.state = state;
         this.zip = zip;
-        this.phoneNumber = phoneNumber;
+        this.phone = phone;
         this.email = email;
     }
 
-    public String getFirstName() {
-        return firstName;
+    public String getFullName() {
+        return firstName + " " + lastName;
     }
 
-    public String getLastName() {
-        return lastName;
+    public String toFileString() {
+
+        return firstName + "," + lastName + "," +
+               address + "," + city + "," +
+               state + "," + zip + "," +
+               phone + "," + email;
+    }
+
+    public static Contact fromFileString(String line) {
+
+        String[] data = line.split(",");
+
+        return new Contact(
+                data[0], data[1], data[2],
+                data[3], data[4], data[5],
+                data[6], data[7]);
+    }
+
+    public void display() {
+
+        System.out.println("\nName: " + getFullName());
+        System.out.println("Address: " + address);
+        System.out.println("City: " + city);
+        System.out.println("State: " + state);
+        System.out.println("Zip: " + zip);
+        System.out.println("Phone: " + phone);
+        System.out.println("Email: " + email);
     }
 
     @Override
-    public String toString() {
-        return "Contact {" +
-                "First Name='" + firstName + '\'' +
-                ", Last Name='" + lastName + '\'' +
-                ", Address='" + address + '\'' +
-                ", City='" + city + '\'' +
-                ", State='" + state + '\'' +
-                ", Zip='" + zip + '\'' +
-                ", Phone='" + phoneNumber + '\'' +
-                ", Email='" + email + '\'' +
-                '}';
+    public boolean equals(Object o) {
+
+        Contact c = (Contact) o;
+
+        return firstName.equalsIgnoreCase(c.firstName)
+                && lastName.equalsIgnoreCase(c.lastName);
+    }
+
+    @Override
+    public int hashCode() {
+
+        return Objects.hash(firstName, lastName);
     }
 }
