@@ -6,16 +6,16 @@ The training focuses on building strong Core Java fundamentals, improving logica
 
 ## 🏗️ Repository Structure (High-Level)
 
-📦 BridgeLabz-Training
-┣ 📂 collections-practice
-┣ 📂 core-java-practice
-┣ 📂 dbms-practice
-┣ 📂 dsa-practice
-┣ 📂 io-programming-practice
-┣ 📂 java8-features-practice
-┣ 📂 multi-threading-practice
-┣ 📂 oops-practice
-┣ 📂 main
+📦 BridgeLabz-Training   
+┣ 📂 collections-practice  
+┣ 📂 core-java-practice  
+┣ 📂 dbms-practice  
+┣ 📂 dsa-practice  
+┣ 📂 io-programming-practice  
+┣ 📂 java8-features-practice  
+┣ 📂 multi-threading-practice  
+┣ 📂 oops-practice  
+┣ 📂 main  
 ┗ 📄 README.md
 
 
