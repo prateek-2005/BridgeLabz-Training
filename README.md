@@ -29,3 +29,19 @@
 - Implemented CRUD operations using JDBC and understood connection pooling basics.
 - Integrated the Health Clinic database with a Java console application.
 - Completed and tested the Health Clinic Management System.
+
+---
+
+## 📅 Day 5 – Tomcat, Servlets & Spring Introduction
+- Learned Tomcat as a web/application server and understood the Servlet lifecycle.
+- Explored Spring Framework fundamentals and Spring Core concepts.
+- Studied IoC (Inversion of Control) and Dependency Injection basics.
+- Deployed a basic Servlet on Tomcat and created a simple Spring IoC example.
+
+---
+
+## 📅 Day 6 – Spring MVC
+- Learned the Spring MVC architecture and its request-response flow.
+- Understood DispatcherServlet, Controllers, Views, and request mapping.
+- Practiced handling HTTP requests using Spring MVC.
+- Built a simple **My Greetings App** using Spring MVC.
