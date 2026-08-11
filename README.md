@@ -45,3 +45,19 @@
 - Understood DispatcherServlet, Controllers, Views, and request mapping.
 - Practiced handling HTTP requests using Spring MVC.
 - Built a simple **My Greetings App** using Spring MVC.
+
+---
+
+## 📅 Day 7 – Spring REST API & Request Handling
+- Learned Spring REST API programming and how to build RESTful endpoints.
+- Understood request handling patterns and H2 in-memory database basics.
+- Got an overview of distributed architecture and its motivation.
+- Started developing the **Contacts App backend** with basic REST endpoints.
+
+---
+
+## 📅 Day 8 – API Testing Tools & SDLC
+- Learned REST Assured and JSON Server for API mocking and testing.
+- Understood the Software Development Life Cycle (SDLC) and backend development workflow.
+- Continued developing the **Contacts App backend** and applied concepts in a live project.
+- Tested Contacts App REST endpoints using **REST Assured / JSON Server**.
