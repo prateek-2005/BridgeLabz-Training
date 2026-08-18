@@ -61,3 +61,35 @@
 - Understood the Software Development Life Cycle (SDLC) and backend development workflow.
 - Continued developing the **Contacts App backend** and applied concepts in a live project.
 - Tested Contacts App REST endpoints using **REST Assured / JSON Server**.
+
+---
+
+## 📅 Day 9 – Spring Boot Fundamentals
+- Learned Spring Boot auto-configuration, starters, and embedded servers.
+- Explored Spring Controllers and REST API development in Spring Boot.
+- Created a new Spring Boot project and understood its basic structure.
+- Continued building the **Contacts App backend** using Spring Boot.
+
+---
+
+## 📅 Day 10 – Dependency Injection & H2 Database
+- Studied Dependency Injection in depth and its role in Spring Boot.
+- Learned H2 database integration and configuration.
+- Connected the H2 database with the application.
+- Applied these concepts to the **Contacts App / Employee Payroll App** backend.
+
+---
+
+## 📅 Day 11 – Spring Services, JPA & JDBC
+- Learned service-layer design for building clean Spring REST APIs.
+- Explored Spring Data JPA, repositories, entities, and object-relational mapping.
+- Learned Spring JDBC and template-based database access.
+- Built the **Employee Payroll App backend** using Spring JPA/JDBC.
+
+---
+
+## 📅 Day 12 – Spring Scopes, Logging, Maven & Postman
+- Learned Spring Bean scopes: Singleton, Prototype, Request, and Session.
+- Implemented logging in Spring Boot applications.
+- Understood Maven for build automation and dependency management.
+- Completed the **Employee Payroll & Address Book App backends** and tested APIs using Postman.
