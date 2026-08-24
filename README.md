@@ -93,3 +93,38 @@
 - Implemented logging in Spring Boot applications.
 - Understood Maven for build automation and dependency management.
 - Completed the **Employee Payroll & Address Book App backends** and tested APIs using Postman.
+
+---
+
+## 📅 Day 13 – Spring Security & JWT Authentication
+- Recap Spring Boot and dive into Spring Security fundamentals.
+- Implement JWT-based token authentication for secure login flows.
+- Build User Management Module: login, registration, password recovery.
+
+---
+
+## 📅Day 14 – Authorization & JPA for Notes Management
+- Differentiate authentication vs authorization with secure token verification.
+- Explore JPA entity relationships for Users and Notes.
+- Develop Authentication & Notes Management Modules: create/delete notes.
+
+---
+
+## 📅Day 15 – Organisation Modules: Pin/Archive/Trash, Search & Tags
+- Design REST endpoints for state-based filtering (pin, archive, trash).
+- Implement search & filter queries for notes.
+- Add Tags/Labels Management Module for better organization.
+
+---
+
+## 📅Day 16 – JMS & Redis Caching
+- Use JMS for asynchronous, non-blocking background processing.
+- Integrate Redis for token caching to boost authorization performance.
+- Build Reminder & Notification Module with JMS + Redis caching.
+
+---
+
+## 📅Day 17 – RabbitMQ & Spring Batch (Excel)
+- Learn RabbitMQ fundamentals for message queuing and async operations.
+- Apply Spring Batch for Excel import/export and batch processing.
+- Extend project with File Attachment Module (optional).
