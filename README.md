@@ -97,34 +97,63 @@
 ---
 
 ## 📅 Day 13 – Spring Security & JWT Authentication
-- Recap Spring Boot and dive into Spring Security fundamentals.
-- Implement JWT-based token authentication for secure login flows.
-- Build User Management Module: login, registration, password recovery.
+- Revised Spring Boot and learned Spring Security fundamentals.
+- Understood JWT (JSON Web Token) based authentication.
+- Implemented secure user authentication and token-based verification.
+- Started the **Fundoo Notes App User Management Module** with login, registration, and password recovery.
 
 ---
 
-## 📅Day 14 – Authorization & JPA for Notes Management
-- Differentiate authentication vs authorization with secure token verification.
-- Explore JPA entity relationships for Users and Notes.
-- Develop Authentication & Notes Management Modules: create/delete notes.
+## 📅 Day 14 – Authorization & JPA for Notes Management
+- Learned the difference between Authentication and Authorization.
+- Implemented secure token-based authorization using Spring Security.
+- Explored JPA entity relationships between Users and Notes.
+- Developed the **Authentication & Authorization** and **Notes Management** modules.
 
 ---
 
-## 📅Day 15 – Organisation Modules: Pin/Archive/Trash, Search & Tags
-- Design REST endpoints for state-based filtering (pin, archive, trash).
-- Implement search & filter queries for notes.
-- Add Tags/Labels Management Module for better organization.
+## 📅 Day 15 – Organization Modules: Pin, Archive, Trash, Search & Tags
+- Designed REST endpoints for Pin, Archive, Trash, Search, and Tags operations.
+- Implemented state-based filtering and search query handling.
+- Developed Pin/Archive/Trash and Search & Filter modules.
+- Added **Tags/Labels Management** to the Fundoo Notes App.
 
 ---
 
-## 📅Day 16 – JMS & Redis Caching
-- Use JMS for asynchronous, non-blocking background processing.
-- Integrate Redis for token caching to boost authorization performance.
-- Build Reminder & Notification Module with JMS + Redis caching.
+## 📅 Day 16 – JMS & Redis Caching
+- Learned JMS (Java Message Service) for asynchronous, non-blocking background processing.
+- Explored Redis caching and its role in improving authorization performance.
+- Implemented the **Reminder & Notification Module** using JMS.
+- Added Redis-based token caching to the Fundoo Notes App.
 
 ---
 
-## 📅Day 17 – RabbitMQ & Spring Batch (Excel)
-- Learn RabbitMQ fundamentals for message queuing and async operations.
-- Apply Spring Batch for Excel import/export and batch processing.
-- Extend project with File Attachment Module (optional).
+## 📅 Day 17 – RabbitMQ & Spring Batch
+- Learned RabbitMQ message queuing and asynchronous communication.
+- Explored Spring Batch for batch processing operations.
+- Learned Excel import/export using Spring Batch.
+- Explored RabbitMQ for smooth background and asynchronous operations.
+
+---
+
+## 📅 Day 18 – REST API Patterns, Exception Handling, AOP & Spring Cloud
+- Applied REST API design patterns and revisited Spring Bean Scopes.
+- Learned DTO-to-Entity and Entity-to-DTO mapping techniques.
+- Implemented global exception handling and improved application logging.
+- Explored AOP (Aspect-Oriented Programming) and Spring Cloud fundamentals.
+
+---
+
+## 📅 Day 19 – Monolith vs Microservices & Spring Boot Microservices
+- Compared Monolithic and Microservices architectures and their trade-offs.
+- Learned Spring Boot Microservices project structure and inter-service communication.
+- Understood the purpose of an API Gateway and request routing.
+- Started decomposing the **Fundoo Notes App** into User Management and Authentication microservices.
+
+---
+
+## 📅 Day 20 – Eureka Service Registry & Microservices Completion
+- Learned Service Discovery using **Eureka Service Registry**.
+- Consolidated microservices architecture and inter-service communication concepts.
+- Completed Fundoo Notes microservices including User, Auth, Notes, Search, Tags, Reminder, and Notification services.
+- Performed the final demo of the **microservices-based Fundoo Notes Application**.
